@@ -1,10 +1,37 @@
-# React + Vite
+Built with HTML, CSS, JavaScript, REACT, and Redux Toolkit.
+Hosted on Heroku or Netlify.
+Frequent commits to GitHub.
+A README.md file in your GitHub repository with:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Explanations of the technologies used.
+Explanations of the approach taken.
+A link to your live site.
+Usage instructions, if relevant.
+Unsolved problems.
+etc.
+Use AJAX to make a request to an external data source like OMDBapi, and insert some of the data retrieved into the DOM.
 
-Currently, two official plugins are available:
+➕ Bonus Features
+The following are not required:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# SBA320
-# SBA320
+Have one or more complex user interface modules such as a carousel, drag and drop, a sticky nav, tooltips, etc.
+Look into localstorage so you can save data to the user's browser.
+
+📋 Finding an API
+Below is a non-exhaustive list of some free APIs you can use. There are many APIs out there, so if you find one not on this list that you'd like to use, feel free! Please note that some may require signing up for an API key (e.g. the Marvel API).
+
+Marvel
+Weather
+News
+Giphy
+Pokemon
+Card Deck
+Google Books
+City of Chicago
+Beer
+Chuck Norris
+Rick and Morty
+Lastly, the following sites collect a bunch of APIs together, so you can take a look through their libraries and try to find an API that interests you!
+
+Public APIs List
+Rapid API
